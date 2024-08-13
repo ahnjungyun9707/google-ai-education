@@ -1,0 +1,6 @@
+1. remote repo(github)에 repo생성
+    dataScience2024
+    https://github.com/venture21/DataScience2024.git
+
+2. local repo를 생성(복제)
+   git clone https://github.com/venture21/DataScience2024.git
